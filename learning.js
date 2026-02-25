@@ -1,0 +1,1 @@
+console.log("Currently learning a lot of different things and will update them accordingly...")
